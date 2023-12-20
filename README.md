@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @lucas-c-almeida
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on communication-related data analytics projects
-- 📫 Reach me through my email lucasalmeida@pilote.com.br
+-  I’m a full-stack data scientist
+-  Currently living in Manaus, Amazonas, Brazil
+-  Currently for D4U Immigration's BI department in data engineering
+-  Very interested in data engineering and data science projects
+
 
 <!---
 lucas-c-almeida/lucas-c-almeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
