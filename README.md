@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @lucas-c-almeida
--  I’m a full-stack data scientist
--  Currently living in Manaus, Amazonas, Brazil
--  Currently for D4U Immigration's BI department in data engineering
--  Very interested in data engineering and data science projects
-
+-  I’m a full-stack data scientist living in Manaus, Amazonas, Brazil
+-  Work for D4U Immigration 
 
 <!---
 lucas-c-almeida/lucas-c-almeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
