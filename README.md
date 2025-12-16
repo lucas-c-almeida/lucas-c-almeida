@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucas-c-almeida
--  I’m a full-stack data scientist living in Manaus, Amazonas, Brazil
+-  I’m a full-stack data scientist living in Curitiba, Paraná, Brazil
 -  Work for D4U Immigration 
 
 <!---
